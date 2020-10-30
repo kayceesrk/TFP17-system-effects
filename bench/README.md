@@ -15,7 +15,7 @@
 ## Setting up Go benchmark
 
 The Go webserver is in file `code/httpserv.go`. To compile it, `go build
-httperv`.
+httserv`.
 
 ## Setting up http/af + async
 
